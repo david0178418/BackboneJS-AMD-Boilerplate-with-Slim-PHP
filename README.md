@@ -16,6 +16,8 @@ Underscore v1.3.1 fork https://github.com/amdjs/underscore
 
 Backbone v0.9.1 fork https://github.com/amdjs/backbone
 
+SlimPHP v1.5.0
+
 NormalizeCSS 2011-11-04
 
 ## Getting started
